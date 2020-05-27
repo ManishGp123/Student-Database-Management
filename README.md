@@ -6,3 +6,4 @@ one page for displaying output by entering the details like rollno
 2. display the result of student
 3. delete the details
 4. can edit the details of student
+5. can update the student details
